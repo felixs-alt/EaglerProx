@@ -1,3 +1,5 @@
+FROM ubuntu:latest
+COPY . .
 RUN apt-get update -y
 RUN openjdk-11-jdk openjdk-11-jreog
 EXPOSE 8081
