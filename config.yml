@@ -20,7 +20,7 @@ online_mode: true
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: localhost:25565
+    address: GamespaceMC.aternos.me:38068
     restricted: false
 listeners:
 - query_port: 25577
