@@ -56,7 +56,7 @@ listener_01:
       - '127.*'
       - '0:0:0:0:0:0:0:1'
     query:
-      enable: true
+      enable: false
       period: 30
       limit: 15
       limit_lockout: 25
